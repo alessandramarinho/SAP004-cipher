@@ -49,6 +49,9 @@ tipos de criptografias conhecidas na história. O imperador romano Júlio César
 utilizava essa cifra para enviar ordens secretas aos seus generais no campo de
 batalha.
 
+Acesse a página em:
+![guardian-cripto] (https://alessandramarinho.github.io/SAP004-cipher/src/)
+
 ![caeser-cipher](https://user-images.githubusercontent.com/11894994/60990999-07ffdb00-a320-11e9-87d0-b7c291bc4cd1.png)
 
 A cifra de César é uma das técnicas mais simples de cifrar uma mensagem. É um
@@ -81,3 +84,4 @@ Para o desenvolvimento do projeto foram utilizados:
 * HTML - usado para estruturar o conteúdo da página;
 * CSS - usado para estilizar a página;
 * JavaScript - usado para a fazer a interação do usuário com a página.
+* Testes - Todos os testes unitários estão cobrindo 100%. E cumpri os desafios do Hacker Edition.
