@@ -1,5 +1,8 @@
 # Guardian Crypto
 
+Acesse a página clicando [aqui](https://alessandramarinho.github.io/SAP004-cipher/src/)
+
+
 ## Índice
 
 * [1. Definição do Produto](#1-definicao-do-produto)
@@ -20,11 +23,11 @@ Inspirado nos jogos de RPG (_role-playing game_), um tipo de jogo aonde os jogad
 
 Erberus... 
 Um lugar pacífico e calmo desde os primordios de sua criação, habitada por uma variedade de raças todos viviam pacificamente, conflitos eram raros e quando ocorriam, rapidamente eram solucionados, porém, isso tudo mudou em um dia, 
-dia esse que ficou conhecido como _"The Prague Day"_. Esse foi nada mais e nada menos que o dia em que sugiu a raça que quebrou o equilibrio que reinava na terra, raça essa conhecida como `*"Humanos"`. Os Humanos eram uma raça ambiciosa, traçoiera, e se necessario assasina, guerras foram cravadas pela busca de poder, um lugar que antes era pacífico passa a ter longos periodos sangrentos. Contudo existia um reino que queria o equilibrio na terra que fora tirado, esse reino era `*"Drakharian"`.  O mestre ancião dos Drakharian era responsável por guardar uma mensagaem em _enigma_ advindo dos antepassados, que previa uma rebelião entre raças. E para reestabelecer o equilibrio e conter as forças malignas da raça Humana, teriam que descobrir o mensagem _criptografada_ pela `*"Cifra de César"` que continha informações cruciais para o desfecho da batalha. 
+dia esse que ficou conhecido como _"The Prague Day"_. Esse foi nada mais e nada menos que o dia em que sugiu a raça que quebrou o equilibrio que reinava na terra, raça essa conhecida como `"Humanos"`. Os Humanos eram uma raça ambiciosa, traçoiera, e se necessario assasina, guerras foram cravadas pela busca de poder, um lugar que antes era pacífico passa a ter longos periodos sangrentos. Contudo existia um reino que queria o equilibrio na terra que fora tirado, esse reino era `"Drakharian"`.  O mestre ancião dos Drakharian era responsável por guardar uma mensagaem em _enigma_ advindo dos antepassados, que previa uma rebelião entre raças. E para reestabelecer o equilibrio e conter as forças malignas da raça Humana, teriam que descobrir o mensagem _criptografada_ pela `"Cifra de César"` que continha informações cruciais para o desfecho da batalha. 
  
 * O objetivo é: A raça que acessar o enigma primeiro ganha.
 
-Que começem os jogos!
+> Que começem os jogos!
 
 
 ## 3. Interface do Produto
@@ -49,8 +52,6 @@ tipos de criptografias conhecidas na história. O imperador romano Júlio César
 utilizava essa cifra para enviar ordens secretas aos seus generais no campo de
 batalha.
 
-Acesse a página em:
-![guardian-cripto] (https://alessandramarinho.github.io/SAP004-cipher/src/)
 
 ![caeser-cipher](https://user-images.githubusercontent.com/11894994/60990999-07ffdb00-a320-11e9-87d0-b7c291bc4cd1.png)
 
@@ -84,4 +85,4 @@ Para o desenvolvimento do projeto foram utilizados:
 * HTML - usado para estruturar o conteúdo da página;
 * CSS - usado para estilizar a página;
 * JavaScript - usado para a fazer a interação do usuário com a página.
-* Testes - Todos os testes unitários estão cobrindo 100%. E cumpri os desafios do Hacker Edition.
+* Testes - Todos os testes unitários estão cobrindo 100%. _E cumpri os desafios do Hacker Edition_.
