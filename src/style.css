@@ -5,7 +5,6 @@ body {
 }
   
 .title {
-    font-family: 'Audiowide';
     color: #FFE81F;
     font-size: 100px;
     text-align: center;
@@ -14,7 +13,7 @@ body {
     padding: 0;
 }
 
-.telaprincipal {
+.main-screen {
     background-color:  rgb(218, 159, 50);
     text-align: center;
     width: 400px;
